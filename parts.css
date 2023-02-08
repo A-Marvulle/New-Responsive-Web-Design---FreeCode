@@ -1,0 +1,40 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #1c2333;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  width: 100%;
+}
+
+div {
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pgs{
+  color:white;
+}
+.pgs:visited{
+  color:#b5b0b0;
+}
+
+.fa-home{
+  font-size: 41px;
+  color: white;
+}
+
+.fa-home:hover{
+  color: #db1414;
+  -webkit-transition: all 0.5s ease-out;
+}
